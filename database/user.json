@@ -1,0 +1,17 @@
+{
+    "user-000001": {
+        "name": "Alice",
+        "password": "password123",
+        "admin": true,
+        "HourWeek": {
+            "Monday": 8,
+            "Tuesday": 8,
+            "Wednesday": 8,
+            "Thursday": 8,
+            "Friday": 8,
+            "Saturday": 0,
+            "Sunday": 0,
+            "total": 40
+        }
+    }
+}
