@@ -1,0 +1,14 @@
+{
+    "fact-000001": {
+        "date": "2023-10-01",
+        "user": "user-000001",
+        "products": {
+            "Cafe": {
+                "quantity": 1,
+                "price": 3.50
+            }
+        },
+        "total": 3.50,
+        "paymentMethod": "credit_card"
+    }
+}

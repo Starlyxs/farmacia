@@ -1,0 +1,8 @@
+{
+    "Cafe":{
+        "price": 3.50,
+        "description": "El café es una bebida popular hecha a partir de granos de café tostados.",
+        "category": "Bebidas",
+        "inventory": 100
+    }
+}
