@@ -1,9 +1,6 @@
 import tkinter as tk 
 from tkinter import ttk
-<<<<<<< HEAD
-=======
 import json
->>>>>>> 93b33bf7483a91e80be7cef3b39c6a6d61cfd26e
 
 root= tk.Tk()
 root.title("Login")

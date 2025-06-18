@@ -5,11 +5,7 @@
         "products": {
             "Cafe": {
                 "quantity": 1,
-<<<<<<< HEAD
-                "price": 3.50
-=======
                 "price": 3.99
->>>>>>> 93b33bf7483a91e80be7cef3b39c6a6d61cfd26e
             }
         },
         "total": 3.50,

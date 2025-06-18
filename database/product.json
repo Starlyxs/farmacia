@@ -1,11 +1,4 @@
 {
-<<<<<<< HEAD
-    "Cafe":{
-        "price": 3.50,
-        "description": "El café es una bebida popular hecha a partir de granos de café tostados.",
-        "category": "Bebidas",
-        "inventory": 100
-=======
     "Bebidas Frias": {
         "Coca-Cola": {
             "price": 2.50,
@@ -21,6 +14,5 @@
             "description": "Termo de acero inoxidable",
             "image": "https://example.com/images/coca-cola.jpg"
         }
->>>>>>> 93b33bf7483a91e80be7cef3b39c6a6d61cfd26e
     }
 }
