@@ -1,9 +1,17 @@
 {
-    "Bebidas-Frias": {
+    "Bebidas Frias": {
         "Coca-Cola": {
             "price": 2.50,
             "quantity": 100,
             "description": "Coca-Cola Original",
+            "image": "https://example.com/images/coca-cola.jpg"
+        }
+    },
+    "Merchandice": {
+        "Termo": {
+            "price": 2.50,
+            "quantity": 100,
+            "description": "Termo de acero inoxidable",
             "image": "https://example.com/images/coca-cola.jpg"
         }
     }
